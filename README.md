@@ -1,5 +1,5 @@
 ## About me: 👋
-   Origin: Sarawak, Malaysia
-   Previous Education: Kolej Matrikulasi Labuan 
+   Origin: Sarawak, Malaysia\n
+   Previous Education: Kolej Matrikulasi Labuan \n
    
 
