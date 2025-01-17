@@ -1,7 +1,7 @@
-# Hey there! I'm Joyce Puyang Maurice Utap.👋
+<h1 align="center">Hey there! I'm Joyce Puyang Maurice Utap 👋 </h1>
 
 ### 💁🏻‍♀️ About me: 
-  - Origin: Sarawak, Malaysia
+  - A passionate student who likes to learn about IT
   - Currently learning C++, HTML, JavaScript & Node.js
 
 ### 💻 Assignments & Projects [(SECP1015)](https://github.com/Joyce-Puyang/SECP1513)
@@ -11,6 +11,8 @@
   - [Assignment 4:](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%204%20Newsletter.pdf) Newsletter on Industry Visit to MaGICX
   - Design Thinking Project: BusCampus App
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
    
 
