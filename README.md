@@ -7,11 +7,12 @@
   - Email: **puyangmaurice@graduate.utm.my**
 
 ### 💻 Assignments & Projects [(SECP1015)](https://github.com/Joyce-Puyang/SECP1513)
-  - [Assignment 1:](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%201%20Poster.jpg](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%201%20Poster.pdf ) Poster Summary of Industry Talk
+  - [Assignment 1:](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%201%20Poster.pdf) Poster Summary of Industry Talk
   - [Assignment 2:](https://drive.google.com/file/d/1lzgsRV7pNt5iDBFuC1pzqf6I-4sCaKSC/view?usp=sharing) Video on Industry Visit to UTMDigital
   - [Assignment 3:](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%203.pdf) Report on Skills Industry 
   - [Assignment 4:](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%204%20Newsletter.pdf) Newsletter on Industry Visit to MaGICX
   - [Design Thinking Project:](https://github.com/Joyce-Puyang/SECP1513/tree/main/Design%20Thinking) BusCampus App
+  - 💭 Reflections for each assignments: [README.md](https://github.com/Joyce-Puyang/SECP1513/blob/main/README.md)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
