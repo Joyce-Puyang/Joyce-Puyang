@@ -7,7 +7,7 @@
   - Email: **puyangmaurice@graduate.utm.my**
 
 ### 💻 Assignments & Projects [(SECP1015)](https://github.com/Joyce-Puyang/SECP1513)
-  - [Assignment 1:](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%201%20Poster.jpg) Poster Summary of Industry Talk
+  - [Assignment 1:](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%201%20Poster.jpg](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%201%20Poster.pdf ) Poster Summary of Industry Talk
   - [Assignment 2:](https://drive.google.com/file/d/1lzgsRV7pNt5iDBFuC1pzqf6I-4sCaKSC/view?usp=sharing) Video on Industry Visit to UTMDigital
   - [Assignment 3:](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%203.pdf) Report on Skills Industry 
   - [Assignment 4:](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%204%20Newsletter.pdf) Newsletter on Industry Visit to MaGICX
