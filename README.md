@@ -2,7 +2,7 @@
 
 ## 💁🏻‍♀️ About me: 
   - Origin: Sarawak, Malaysia
-  - Previous Education: Kolej Matrikulasi Labuan
+  - Currently learning C++, HTML, JavaScript & Node.js
 
 ## 💻 Assignments & Projects (SECP1015)
   - Assignment 1: Poster Summary of Industry Talk
