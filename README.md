@@ -3,6 +3,7 @@
 ### 💁🏻‍♀️ About me: 
   - A passionate student who likes to learn about IT
   - Currently learning C++, HTML, JavaScript & Node.js
+  - Email: **puyangmaurice@graduate.utm.my**
 
 ### 💻 Assignments & Projects [(SECP1015)](https://github.com/Joyce-Puyang/SECP1513)
   - [Assignment 1:](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%201%20Poster.jpg) Poster Summary of Industry Talk
@@ -14,5 +15,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-   
 
