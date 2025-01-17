@@ -6,7 +6,7 @@
   - Currently learning C++, HTML, JavaScript & Node.js
   - Email: **puyangmaurice@graduate.utm.my**
 
-### 💻 [(SECP1015)](https://github.com/Joyce-Puyang/SECP1513) Assignments & Projects
+### 💻 Assignments & Projects [(SECP1015)](https://github.com/Joyce-Puyang/SECP1513)
   - [Assignment 1:](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%201%20Poster.jpg) Poster Summary of Industry Talk
   - [Assignment 2:](https://drive.google.com/file/d/1lzgsRV7pNt5iDBFuC1pzqf6I-4sCaKSC/view?usp=sharing) Video on Industry Visit to UTMDigital
   - [Assignment 3:](https://github.com/Joyce-Puyang/SECP1513/blob/main/Assignment%203.pdf) Report on Skills Industry 
