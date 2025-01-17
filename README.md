@@ -1,7 +1,8 @@
 <h1 align="center">Hey there! I'm Joyce Puyang Maurice Utap 👋 </h1>
+<h3 align="center">A passionate student who likes to learn about IT</h3>
 
 ### 💁🏻‍♀️ About me: 
-  - A passionate student who likes to learn about IT
+  - Education: Bachelor of Computer Science (Graphic & Multimedia Software) with Honours
   - Currently learning C++, HTML, JavaScript & Node.js
   - Email: **puyangmaurice@graduate.utm.my**
 
