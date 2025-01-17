@@ -4,8 +4,8 @@
   - Origin: Sarawak, Malaysia
   - Currently learning C++, HTML, JavaScript & Node.js
 
-## 💻 [Assignments & Projects (SECP1015)] (https://github.com/Joyce-Puyang/SECP1513)
-  - Assignment 1: Poster Summary of Industry Talk
+## 💻 Assignments & Projects (SECP1015)
+  - [Assignment 1:](https://github.com/Joyce-Puyang/SECP1513) Poster Summary of Industry Talk
   - Assignment 2: Video on Industry Visit to UTMDigital
   - Assignment 3: Report on Skills Industry 
   - Assignment 4: Newsletter on Industry Visit to MaGICX
