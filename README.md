@@ -3,7 +3,7 @@
 
 ### 💁🏻‍♀️ About me: 
   - Education: Bachelor of Computer Science (Graphic & Multimedia Software) with Honours
-  - Currently learning C++, HTML, JavaScript & Node.js
+  - Currently learning C++
   - Email: **puyangmaurice@graduate.utm.my**
 
 ### 💻 Assignments & Projects [(SECP1015)](https://github.com/Joyce-Puyang/SECP1513)
